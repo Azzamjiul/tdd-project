@@ -1,3 +1,3 @@
-module go-tdd
+module tdd
 
 go 1.17
